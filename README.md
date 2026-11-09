@@ -1,6 +1,12 @@
 # Klipeo
 
-Klipeo is an AI video editor. You describe the edit in plain words and its agent, Vibe, cuts, captions, zooms, and adds music and graphics on a real multi-track timeline that you can also edit by hand. It runs in the browser, as a native Mac app (screen recording with controls in the MacBook notch, native exports), on Android (iOS is coming), with a Chrome extension for recording, and with a local bridge CLI that lets your own Claude Code, Codex, Gemini CLI, or OpenCode drive Vibe.
+**Create studio-grade product videos with AI.**
+
+![Klipeo for Mac, with the crew editing a product video](assets/klipeo-mac-editor.webp)
+
+Klipeo is a video editor with a crew of AI buddies. Tell Scout what you want and the crew does it on a real multi-track timeline: Snip cuts, Zip adds transitions, Echo does sound, Cue captions, Tint grades, Spark generates shots, and Ship exports. You can see who is working, they point at the clip they mean, and you can edit anything by hand.
+
+Use it in the browser, as a native Mac app with screen recording from the notch, on Android, with the Chrome extension for recording, or from your own Claude Code, Codex, Gemini CLI or OpenCode through the bridge CLI.
 
 This repository is Klipeo's public download page. The app source is not in this repository.
 
@@ -9,22 +15,22 @@ This repository is Klipeo's public download page. The app source is not in this 
 | Platform | Version | Download |
 | --- | --- | --- |
 | Web | Latest | [klipeo.com](https://klipeo.com) |
-| macOS 14+ | 0.4.8 | [Klipeo.dmg](https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.4.8/Klipeo.dmg) |
+| macOS 14+ | 0.5.1 | [Klipeo.dmg](https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.5.1/Klipeo.dmg) |
+| Chrome extension | 0.1.1 | [klipeo-extension-0.1.1-chrome.zip](https://github.com/Klipeo-org/klipeo/releases/download/extension-v0.1.1/klipeo-extension-0.1.1-chrome.zip) |
 | Android 8.0+ | 0.1.1 | [Klipeo-0.1.1-android.apk](https://github.com/Klipeo-org/klipeo/releases/download/android-v0.1.1/Klipeo-0.1.1-android.apk) |
-| Chrome extension | 0.1.0 | [klipeo-extension-0.1.0-chrome.zip](https://github.com/Klipeo-org/klipeo/releases/download/extension-v0.1.0/klipeo-extension-0.1.0-chrome.zip) |
-| Bridge CLI | 0.1.5 | [bytehumi-klipeo-bridge-0.1.5.tgz](https://github.com/Klipeo-org/klipeo/releases/download/bridge-v0.1.5/bytehumi-klipeo-bridge-0.1.5.tgz) or `npm i -g @bytehumi/klipeo-bridge` |
+| Bridge CLI | 0.1.5 | `npm i -g @bytehumi/klipeo-bridge` or [the .tgz](https://github.com/Klipeo-org/klipeo/releases/download/bridge-v0.1.5/bytehumi-klipeo-bridge-0.1.5.tgz) |
 
-All builds are listed on the [Releases](https://github.com/Klipeo-org/klipeo/releases) page.
+All builds are on the [Releases](https://github.com/Klipeo-org/klipeo/releases) page.
 
 ## Install
 
-**Mac.** Open the DMG and drag Klipeo to Applications. The build is not yet notarized, so on first launch open System Settings > Privacy & Security and click Open Anyway.
-
-**Android.** Open the APK and allow installs from your browser when asked. Requires Android 8.0 or later.
+**Mac.** Open the DMG and drag Klipeo to Applications. It is signed with Developer ID and notarized by Apple, so it opens like any other app. Klipeo updates itself: when a new version is out, the Update button in the sidebar shows a dot.
 
 **Chrome extension.** Unzip the file, open `chrome://extensions`, turn on Developer mode, click Load unpacked, and pick the unzipped folder.
 
-**Bridge CLI.** Run `npm i -g @bytehumi/klipeo-bridge`, then run `klipeo`. You can also install the downloaded file with `npm i -g ./bytehumi-klipeo-bridge-0.1.5.tgz`.
+**Android.** Open the APK and allow installs from your browser when asked. Requires Android 8.0 or later.
+
+**Bridge CLI.** Run `npm i -g @bytehumi/klipeo-bridge`, then `klipeo`.
 
 ## Links
 
