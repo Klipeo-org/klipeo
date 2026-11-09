@@ -2,13 +2,7 @@
 
 **Create studio-grade product videos with AI.**
 
-<p>
-<a href="https://klipeo.com"><img alt="klipeo.com" src="https://img.shields.io/badge/klipeo.com-00a7f5?style=flat-square"></a>
-<a href="https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.5.1/Klipeo.dmg"><img alt="macOS 0.5.1" src="https://img.shields.io/badge/macOS-0.5.1-111111?style=flat-square&logo=apple&logoColor=white"></a>
-<a href="https://chromewebstore.google.com/detail/klipeo-screen-recorder/phohjbafgdnblgbbhdamedjjmknmdjlf"><img alt="Chrome" src="https://img.shields.io/chrome-web-store/v/phohjbafgdnblgbbhdamedjjmknmdjlf?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome&color=00a7f5"></a>
-<a href="https://www.npmjs.com/package/@bytehumi/klipeo-bridge"><img alt="npm" src="https://img.shields.io/npm/v/@bytehumi/klipeo-bridge?style=flat-square&logo=npm&label=npm&color=00a7f5"></a>
-<a href="https://github.com/Klipeo-org/klipeo/releases/download/android-v0.1.1/Klipeo-0.1.1-android.apk"><img alt="Android 0.1.1" src="https://img.shields.io/badge/Android-0.1.1-3ddc84?style=flat-square&logo=android&logoColor=white"></a>
-</p>
+<p><a href="https://klipeo.com"><img alt="klipeo.com" src="https://img.shields.io/badge/klipeo.com-00a7f5?style=flat-square"></a> <a href="https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.5.1/Klipeo.dmg"><img alt="macOS 0.5.1" src="https://img.shields.io/badge/macOS-0.5.1-111111?style=flat-square&logo=apple&logoColor=white"></a> <a href="https://chromewebstore.google.com/detail/klipeo-screen-recorder/phohjbafgdnblgbbhdamedjjmknmdjlf"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/phohjbafgdnblgbbhdamedjjmknmdjlf?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome&color=00a7f5"></a> <a href="https://www.npmjs.com/package/@bytehumi/klipeo-bridge"><img alt="npm bridge CLI" src="https://img.shields.io/npm/v/@bytehumi/klipeo-bridge?style=flat-square&logo=npm&label=npm&color=00a7f5"></a> <a href="https://github.com/Klipeo-org/klipeo/releases/download/android-v0.1.1/Klipeo-0.1.1-android.apk"><img alt="Android 0.1.1" src="https://img.shields.io/badge/Android-0.1.1-3ddc84?style=flat-square&logo=android&logoColor=white"></a> <a href="https://klipeo.com/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-555555?style=flat-square"></a> <a href="https://klipeo.com/changelog"><img alt="Changelog" src="https://img.shields.io/badge/changelog-555555?style=flat-square"></a></p>
 
 
 Klipeo is a video editor with a crew of AI buddies. Tell Scout what you want and the crew does it on a real multi-track timeline: Snip cuts, Zip adds transitions, Echo does sound, Cue captions, Tint grades, Spark generates shots, and Ship exports. You can see who is working, they point at the clip they mean, and you can edit anything by hand.
