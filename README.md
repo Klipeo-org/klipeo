@@ -3,13 +3,11 @@
 **Create studio-grade product videos with AI.**
 
 <p>
-  <a href="https://klipeo.com"><img alt="Website: klipeo.com" src="https://img.shields.io/badge/website-klipeo.com-00a7f5?style=flat-square"></a>
-  <a href="https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.5.1/Klipeo.dmg"><img alt="Download for macOS 0.5.1" src="https://img.shields.io/badge/macOS-0.5.1-111111?style=flat-square&logo=apple&logoColor=white"></a>
-  <a href="https://chromewebstore.google.com/detail/klipeo-screen-recorder/phohjbafgdnblgbbhdamedjjmknmdjlf"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/phohjbafgdnblgbbhdamedjjmknmdjlf?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store"></a>
-  <a href="https://www.npmjs.com/package/@bytehumi/klipeo-bridge"><img alt="npm: @bytehumi/klipeo-bridge" src="https://img.shields.io/npm/v/@bytehumi/klipeo-bridge?style=flat-square&logo=npm&label=bridge%20CLI"></a>
-  <a href="https://github.com/Klipeo-org/klipeo/releases/download/android-v0.1.1/Klipeo-0.1.1-android.apk"><img alt="Android 0.1.1" src="https://img.shields.io/badge/Android-0.1.1-3ddc84?style=flat-square&logo=android&logoColor=white"></a>
-  <a href="https://klipeo.com/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-klipeo.com%2Fdocs-555555?style=flat-square"></a>
-  <a href="https://klipeo.com/changelog"><img alt="Changelog" src="https://img.shields.io/badge/changelog-latest-555555?style=flat-square"></a>
+<a href="https://klipeo.com"><img alt="klipeo.com" src="https://img.shields.io/badge/klipeo.com-00a7f5?style=flat-square"></a>
+<a href="https://github.com/Klipeo-org/klipeo/releases/download/macos-v0.5.1/Klipeo.dmg"><img alt="macOS 0.5.1" src="https://img.shields.io/badge/macOS-0.5.1-111111?style=flat-square&logo=apple&logoColor=white"></a>
+<a href="https://chromewebstore.google.com/detail/klipeo-screen-recorder/phohjbafgdnblgbbhdamedjjmknmdjlf"><img alt="Chrome" src="https://img.shields.io/chrome-web-store/v/phohjbafgdnblgbbhdamedjjmknmdjlf?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome&color=00a7f5"></a>
+<a href="https://www.npmjs.com/package/@bytehumi/klipeo-bridge"><img alt="npm" src="https://img.shields.io/npm/v/@bytehumi/klipeo-bridge?style=flat-square&logo=npm&label=npm&color=00a7f5"></a>
+<a href="https://github.com/Klipeo-org/klipeo/releases/download/android-v0.1.1/Klipeo-0.1.1-android.apk"><img alt="Android 0.1.1" src="https://img.shields.io/badge/Android-0.1.1-3ddc84?style=flat-square&logo=android&logoColor=white"></a>
 </p>
 
 
