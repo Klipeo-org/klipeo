@@ -2,7 +2,6 @@
 
 **Create studio-grade product videos with AI.**
 
-![Klipeo for Mac, with the crew editing a product video](assets/klipeo-mac-editor.webp)
 
 Klipeo is a video editor with a crew of AI buddies. Tell Scout what you want and the crew does it on a real multi-track timeline: Snip cuts, Zip adds transitions, Echo does sound, Cue captions, Tint grades, Spark generates shots, and Ship exports. You can see who is working, they point at the clip they mean, and you can edit anything by hand.
 
